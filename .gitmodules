@@ -1,0 +1,12 @@
+[submodule "transactions-service"]
+	path = transactions-service
+	url = https://github.com/EvsyukovD/transactions-service
+[submodule "cards-service"]
+	path = cards-service
+	url = https://github.com/EvsyukovD/cards-service
+[submodule "autotests"]
+	path = autotests
+	url = https://github.com/EvsyukovD/autotests
+[submodule "architecture-builder"]
+	path = architecture-builder
+	url = https://github.com/EvsyukovD/architecture-builder
